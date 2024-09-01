@@ -49,9 +49,9 @@ Mi objetivo es no solo aprender Git, sino dominarlo. Quiero que este repositorio
 ### 📈 Progreso
 - [x] Instalación y configuración de Git
 - [x] Fundamentos y comandos básicos
-- [ ] Trabajo con ramas y fusión
-- [ ] Colaboración remota y Pull Requests
-- [ ] Contribución a proyectos de código abierto
+- [x] Trabajo con ramas y fusión
+- [x] Colaboración remota y Pull Requests
+- [x] Contribución a proyectos de código abierto
 
 ---
 
